@@ -1,4 +1,3 @@
-Oficina Python 
 Este repositório contém os arquivos desenvolvidos durante a Oficina de Python organizada pelo Cloud Girls. A oficina teve como objetivo introduzir conceitos básicos de programação em Python para mulheres interessadas em ingressar na área de tecnologia.
 
 🚀 Tecnologias
